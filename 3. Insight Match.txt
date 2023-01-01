@@ -1,0 +1,13 @@
+Pregunta n°3.
+
+¿Qué insights ves en la información detallada del partido?
+
+Respuesta:
+
+En este caso el Insight por partidos, serán las variables que yo defini como 'LOCAL_TEAM' y 'AWAY_TEAM', correspondiente a los equipos
+que se ven enfrentados, las variables que defini como 'LOCAL_GOAL' y 'AWAY_GOAL', entregará el vencedor del partido, por lo que no deja
+de ser un factor relevante al momento de querer saber la información de un partido.
+
+Por otro lado las variables definidas como 'COUNTRY', 'LEAGUE', 'SEASON' Y 'DATE', son datos siempre importantes al momento de querer
+informar sobre un partido.
+

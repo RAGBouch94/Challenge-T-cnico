@@ -1,0 +1,15 @@
+Pregunta 5.
+
+¿Qué insights ves en el perfil por jugador? ¿Qué data crees que es relevante para elegir a los mejores jugadores?
+
+Los Insights presentes en el perfil por jugador son 'Player_name', 'birthday', 'height', 'weight', 'overall_rating',
+'potential', 'preferred_foot', 'attacking_work_rate', 'defensive_work_rate', 'ball_control', 'positioning', 'stamina',
+'strength', 'dribbling', 'vision' y 'aggression'.
+Según las mas prestigiosas revistas deportivas esas son las cualidades básicas que debe poseer un jugador de fútbol para ser un
+profesional.
+Esta información nos ayuda a tener un pérfil mas completo al momento de visualizar a los jugadores de fútbol, para así tener
+presente a los mejores, o con mayor proyección.
+
+La data que es relevante al momento de elegir a los mejores jugadores es el 'OVERALL_RATING', que corresponde a la evaluación general
+por jugador, esto facilita al momento de elegir a los mejores, los que tengan un 'OVERALL_RATING' mas cercano a 100.
+
