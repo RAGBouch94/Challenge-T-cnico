@@ -1,0 +1,19 @@
+BONUS
+
+¿Cuál es tu sugerencia de jugadores para armar el mejor equipo de la historia? Argumenta tu respuesta.
+
+Para poder justificar esta respuesta realice un panel en Power Bi, el cual facilita la toma de decisiones, ya que la información se aprecia
+de mejor manera, al tener distintas visualizaciones.
+
+En este caso en particular, el panel posee una tabla de información con los jugadores ('Player_Name'), Año ('Birthday'), Altura ('Height'),
+Peso ('Weight').
+
+Posee un Gráfico de barras en el cual, en el eje x muestra lo jugadores ('Player_Name'), y en el eje Y muestra los valores (0-100) tanto
+para la clasificación general ('Overall_Rating') como para el potencial ('Potential'). Este gráfico está unido con unas tablas de segmentación
+de datos, que nos ayudará a la toma de decisiones al poder seleccionar los valores mas altos tanto para 'Overall_Rating' como para 'Potential'
+y asi poder elegir los mejores jugadores para armar el MEJOR EQUIPO de la historia, según el criterio de cada entrenador o persona ligada 
+al fútbol, ya que luego entran diferentes factores al momento de elegir un jugador por sobre otro.
+Por este motivo quise agregar otros gráficos que nos ayuden a visualizar el porcentaje de jugadores por nivel de ataque y visualizar el 
+porcentaje de jugadores por nivel de defensa. A su vez ayudo a darse cuenta algunos datos incongruentes como por ejemplo :('none', 'en blanco',
+'norm', 'y', 'le', 'stoc', '_0', 'o', '1', 'ormal', '2', '3', '5', '7', '0', '6', '9', '4', 'es', 'ean', 'tocky', '8'), datos encontrados en
+el gráfico de torta y de dona. 
